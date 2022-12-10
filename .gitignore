@@ -1,3 +1,8 @@
+# Misc.
+old/
+*.npz
+*.pdf
+
 # VS Code
 *.code-workspace
 
